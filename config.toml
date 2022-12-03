@@ -9,6 +9,7 @@ copyright = "©George Sequeira"
 posts = "/writing/:title/"
 
 [params]
+    favicon = "favicon.ico"
 	customcss = ["css/custom.css"]
 	mode="auto"
 	useCDN=false
@@ -22,9 +23,9 @@ weight = 2
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 3

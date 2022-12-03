@@ -1,0 +1,10 @@
+<figure class="image-figure">
+    <div class="mkdown-img">
+        <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    </div>
+    {{ if eq .Title "" }}
+    <div class="figure-subtitle">{{.Text}}</div>
+    {{ else}}
+    <div class="figure-subtitle"><a href="{{.Title}}">{{.Text}}</a></div>
+    {{ end }}
+  </figure>
