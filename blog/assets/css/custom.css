@@ -1,0 +1,31 @@
+
+
+/* remove the content things they were doing */
+h1::before { content: ''; }
+h2::before { content: ''; }
+h3::before { content: ''; }
+h4::before { content: ''; }
+h5::before { content: ''; }
+h6::before { content: ''; }
+
+h1 { font-size: 2rem}
+
+h2 { font-size: 2.1669rem}
+
+h3 { font-size: 1.8331rem}
+
+h4 { font-size: 1.6669rem}
+
+h5 { font-size: 1.5rem} 
+
+header .main {
+    font-size: 2.25rem;
+}
+
+.main a {
+    border-bottom: 0px;
+}
+/*
+Top Geoge - 36 Px -> rem
+
+*/
