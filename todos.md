@@ -2,11 +2,19 @@ List of things that I don't want to forget to do
 
 ## Todo
 
+- bring all articles over.
+- take away grey background behind images
 - Bring all h1,h2,h3 stuff over from medium
 - First tag when listed on main page.
+- go through and add the correct "tags" to every story from ghost
 - first tag on the post itself (not this cloud thing)
 - images aren't doing well because of inline-block
 - Add in the anchor tags like PaperMod has.
+- reduce red usage.
+- add spacing before read more
+- remove 2em on h's in paragraphs or article
+- tag in grey above the article.
+- more spacing between paragraphs?
 - pagination working?
 - table of contents like in papaermod
 - favicon
