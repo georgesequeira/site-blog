@@ -8,11 +8,13 @@ copyright = "©George Sequeira"
 [permalinks]
 posts = "/writing/:title/"
 
+
+
 [params]
     favicon = "/img/favicon.png"
 	customcss = ["css/custom.css"]
 	mode="auto"
-	useCDN=true
+	useCDN=false
 
 [[menu.main]]
 name = "Posts"
