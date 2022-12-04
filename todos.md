@@ -12,6 +12,7 @@ List of things that I don't want to forget to do
 ## Todo
 
 - double check everything looks good.bring all articles over.
+- fix 404 page.
 - deploy!
 
 ## Done

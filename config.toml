@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://stirring-lollipop-b0379f.netlify.app/'
 languageCode = 'en-us'
 title = 'George Sequeira'
 theme = "archie"
