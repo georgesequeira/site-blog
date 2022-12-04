@@ -3,7 +3,7 @@ title: 'Great teams hire "High-Clarity + High-Energy" people'
 date: 2022-01-21T16:00:35-05:00
 draft: false
 description: 'To build a successful startup, your number one priority is to hire great people. Being energized by the people you work with translates to everyone doing their best work. When I was building my company in 2020, I wanted our edge to be our employees. After examining my years of...'
-tags: ['research', 'integrations', 'startups']
+tags: ['hiring', 'startups', 'values']
 ---
 
 ![](/img/clarity.png)

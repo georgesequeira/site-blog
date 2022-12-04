@@ -8,7 +8,7 @@
                 {{ if gt .Params.tags 0 }}
                 <nav class="nav tags">
                     <ul class="tags">
-                        {{ range .Params.tags }}
+                        {{ range .Params.tags}}
                         <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
                         {{ end }}
                     </ul>

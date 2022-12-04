@@ -17,15 +17,12 @@ p: 1.8 rem
 .index-h2 {
     margin-top: 0;
 }
-h1 { font-size: 2rem}
+h1 { font-size: 1.8rem}
 
-h2 { font-size: 2.1669rem}
+h2 { font-size: 1.5rem}
 
-h3 { font-size: 1.8331rem}
+h3 { font-size: 1.3rem}
 
-h4 { font-size: 1.6669rem}
-
-h5 { font-size: 1.5rem} 
 
 header .main {
     font-size: 2.25rem;
@@ -38,12 +35,7 @@ header .main {
 nav a {
     margin: 5px;
 }
-.body ul a {
-    color: var(--maincolor);
-}
-
 p a {
-    color: var(--maincolor);
     text-decoration: none;
 }
 

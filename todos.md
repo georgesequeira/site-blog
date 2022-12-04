@@ -1,30 +1,30 @@
 List of things that I don't want to forget to do
 
-## Todo
+## Nice to have in some future
 
-- bring all articles over.
-- take away grey background behind images
-- Bring all h1,h2,h3 stuff over from medium
-- First tag when listed on main page.
-- go through and add the correct "tags" to every story from ghost
-- first tag on the post itself (not this cloud thing)
-- images aren't doing well because of inline-block
+- table of contents like in papaermod
 - Add in the anchor tags like PaperMod has.
 - reduce red usage.
-- add spacing before read more
-- remove 2em on h's in paragraphs or article
-- tag in grey above the article.
-- more spacing between paragraphs?
-- pagination working?
-- table of contents like in papaermod
-- favicon
-- how to create breaks (line breaks)
 - on screen re-size to small, newline the menu items
-- list spacing in <p> should be bgger
-- make the date come before the title when lists of articles are shown (not index.html)
+- more spacing between paragraphs?
+
+## Todo
+
+- Bring all h1,h2,h3 stuff over from medium
+- make the format for blogs listed like the one justin has.
+- double check everything looks good.bring all articles over.
+- images aren't doing well because of inline-block
+- deploy!
+- favicon
 
 ## Done
 
+- tag in grey above the article.
+- take away grey background behind images
+- go through and add the correct "tags" to every story from ghost
+- remove 2em on h's in paragraphs or article
+- First tag when listed on main page.
+- bring all articles over.
 - figure out formatting of images + caption. - center + grey like on medium
 - list looks like stars - lets make them dots
 - center justify the things that are under the images

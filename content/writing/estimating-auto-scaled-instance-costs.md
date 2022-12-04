@@ -2,6 +2,8 @@
 title: 'Estimating auto-scaled instance costs'
 date: 2018-01-31T16:33:46-05:00
 draft: false
+description: 'hello world'
+tags: ['software']
 ---
 
 ![Photo by Markus Winkle](/img/unsplash-charts.jpeg 'https://unsplash.com/@markuswinkler?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit')

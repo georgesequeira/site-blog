@@ -3,6 +3,7 @@ title: 'On Exact Language'
 date: 2021-04-29T16:31:11-05:00
 draft: false
 description: 'helllo world'
+tags: ['communication', 'values']
 ---
 
 ![Photo by Volodymyr Hryshchenko](/img/talk-bubble.jpeg 'https://unsplash.com/@lunarts?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit')

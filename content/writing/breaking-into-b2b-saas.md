@@ -1,5 +1,5 @@
 ---
-title: 'Breaking Into B2b SaaS'
+title: 'Breaking Into B2B SaaS'
 date: 2021-11-18T16:11:52-05:00
 draft: false
 description: ''

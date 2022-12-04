@@ -10,7 +10,7 @@
 html {
   color: #232333;
   font-family: 'Inter', monospace;
-  font-size: 15px;
+  font-size: 1rem;
   line-height: 1.6em;
 }
 body{
@@ -56,7 +56,7 @@ ul > li::before {
 
 /* Images */
 img {
-  border: 3px solid #ececec;
+  /* border: 3px solid #ececec; */
   max-width: 100%;
 }
 
@@ -133,9 +133,12 @@ header {
 header .main {
   font-size: 1.5rem;
 }
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 h1, h2, h3, h4, h5, h6 {
   font-size: 1.2rem;
-  margin-top: 2em;
 }
 
 h1::before { color: var(--maincolor); content: '# '; }
@@ -183,7 +186,8 @@ time {
 
 /* Posts */
 article .title {
-  margin-bottom: 1em;
+  margin-top: 1em;
+  margin-bottom: 0;
 }
 
 

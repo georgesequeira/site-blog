@@ -3,7 +3,7 @@ title: 'Finding Startup Ideas That Anticipate the Future'
 date: 2021-10-25T16:19:33-05:00
 draft: false
 description: 'hello world'
-tags: ['research', 'integrations', 'startups']
+tags: ['startups']
 ---
 
 ![Photo by Michael Dziedzic](/img/crystal-ball.jpeg 'https://unsplash.com/@lazycreekimages?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit')

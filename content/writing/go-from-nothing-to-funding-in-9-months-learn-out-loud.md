@@ -2,6 +2,7 @@
 title: 'When building a company, learn out loud'
 date: 2021-09-12T16:27:36-05:00
 draft: false
+tags: ['startups', 'communication']
 ---
 
 ![Photo by Patrick Fore](/img/bullhorn.jpeg 'https://unsplash.com/@patrickian4?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit')
