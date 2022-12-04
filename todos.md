@@ -12,12 +12,12 @@ List of things that I don't want to forget to do
 ## Todo
 
 - double check everything looks good.bring all articles over.
-- size of "caption" should be smaller by a little.
 - deploy!
 - favicon
 
 ## Done
 
+- size of "caption" should be smaller by a little.
 - images aren't doing well because of inline-block
 - Bring all h1,h2,h3 stuff over from medium
 - tag in grey above the article.

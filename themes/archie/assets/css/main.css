@@ -65,6 +65,10 @@ img {
     align-items: center;
     justify-content: center;
 }
+.figure-subtitle {
+    font-size: 0.8rem;
+}
+
 figure {
   box-sizing: border-box;
   display: inline-block;
