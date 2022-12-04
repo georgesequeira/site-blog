@@ -60,22 +60,20 @@ img {
   max-width: 100%;
 }
 
+.figure-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 figure {
   box-sizing: border-box;
   display: inline-block;
-  margin: 0;
-  max-width: 100%;
 }
 
 figure img {
   max-height: 500px;
 }
 
-@media screen and (min-width: 600px) {
-  figure {
-    padding: 0 40px;
-  }
-}
 
 figure h4 {
   font-size: 1rem;

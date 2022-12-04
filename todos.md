@@ -7,18 +7,19 @@ List of things that I don't want to forget to do
 - reduce red usage.
 - on screen re-size to small, newline the menu items
 - more spacing between paragraphs?
+- reformat listed dates.
 
 ## Todo
 
-- Bring all h1,h2,h3 stuff over from medium
-- make the format for blogs listed like the one justin has.
 - double check everything looks good.bring all articles over.
-- images aren't doing well because of inline-block
+- size of "caption" should be smaller by a little.
 - deploy!
 - favicon
 
 ## Done
 
+- images aren't doing well because of inline-block
+- Bring all h1,h2,h3 stuff over from medium
 - tag in grey above the article.
 - take away grey background behind images
 - go through and add the correct "tags" to every story from ghost
