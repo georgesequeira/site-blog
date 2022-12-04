@@ -15,7 +15,7 @@ posts = "/writing/:title/"
     favicon = "/img/favicon.png"
 	customcss = ["css/custom.css"]
 	mode="auto"
-	useCDN=false
+	useCDN=true
 
 [[menu.main]]
 name = "Posts"

@@ -3,6 +3,7 @@ List of things that I don't want to forget to do
 ## Nice to have in some future
 
 - table of contents like in papaermod
+- don't use the CDN for fonts
 - Add in the anchor tags like PaperMod has.
 - reduce red usage.
 - on screen re-size to small, newline the menu items
