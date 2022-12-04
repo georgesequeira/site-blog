@@ -9,7 +9,7 @@ copyright = "©George Sequeira"
 posts = "/writing/:title/"
 
 [params]
-    favicon = "favicon.ico"
+    favicon = "/img/favicon.png"
 	customcss = ["css/custom.css"]
 	mode="auto"
 	useCDN=false
