@@ -4,6 +4,7 @@ title = 'George Sequeira'
 theme = "archie"
 paginate=3 # articles per page
 copyright = "©George Sequeira"
+googleAnalytics = 'G-N927GRKWX9'
 
 [permalinks]
 posts = "/writing/:title/"
