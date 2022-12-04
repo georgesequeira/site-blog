@@ -2,6 +2,7 @@ List of things that I don't want to forget to do
 
 ## Nice to have in some future
 
+- 404 page
 - table of contents like in papaermod
 - don't use the CDN for fonts
 - Add in the anchor tags like PaperMod has.
