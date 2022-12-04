@@ -13,10 +13,10 @@ List of things that I don't want to forget to do
 
 - double check everything looks good.bring all articles over.
 - deploy!
-- favicon
 
 ## Done
 
+- favicon
 - size of "caption" should be smaller by a little.
 - images aren't doing well because of inline-block
 - Bring all h1,h2,h3 stuff over from medium
