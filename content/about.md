@@ -17,6 +17,6 @@ Email (g@georgesequeira.com) is best.
 
 You can also find me here:
 
-- twitter/george_sequeira
-- medium/@sequeira
-- linkedin/georgesequeira
+- [twitter/george_sequeira](https://twitter.com/george_sequeira)
+- [medium/@sequeira](https://medium.com/@sequeira)
+- [linkedin/georgesequeira](https://linkedin.com/in/georgesequeira)

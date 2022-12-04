@@ -13,7 +13,6 @@ posts = "/writing/:title/"
 	customcss = ["css/custom.css"]
 	mode="auto"
 	useCDN=false
-	subtitle = "👋 Hey folks! I’m George Sequeira. I’m a technology entrepreneur, investor, advisor currently on hiatus."
 
 [[menu.main]]
 name = "Posts"

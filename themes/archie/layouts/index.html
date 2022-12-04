@@ -7,21 +7,21 @@
 			
 			<main class="list">
 				<div class="site-description">
-					{{- if isset .Site.Params "subtitle" -}}
-					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
-					{{- end -}}
+					<p>
+                        👋 I’m George. I’m a software engineer currently building <a href="https://hemisphere.so">Hemisphere</a> -- a headless CRM/BI platform.
+                    </p>
 				</div>
-				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
-				<section class="list-item">
-					<h1 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h1>
-					<time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</time>
-					<br>{{ template "partials/pagedescription.html" . }}
-                    <a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a>
-				</section>
+                <h3>Stuff I've Written</h3>
+				<ul class="posts"></ul>
+                {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+				{{ range $pages }}
+                
+                    <li class="post">
+                        <a href="{{ .RelPermalink }}">{{.Title}}</a>
+                            <span class="meta">[ {{ dateFormat "Jan 2, 2006" .Date }} ]{{ if .Draft }}<span class="draft-label">DRAFT</span> {{ end }}</span>
+                    </li>
 				{{ end }}
-				{{ template "partials/paginator.html" . }}
+            </ul>
 			</main>
 			{{ partial "footer.html" . }}
 		</div>
