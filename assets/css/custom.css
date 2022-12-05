@@ -58,30 +58,6 @@ ul {
     list-style-type: circle;
 }
 
-.tags ul {
-    display: flex;
-    list-style-type: none;
-    padding-left: 0ch;
-}
-.tags ul li {
-    background-color:rgba(242, 242, 242, 1);
-    border: none;
-    border-radius: 20px;
-    text-align: center;
-    text-indent: 0;
-    margin: 3px;
-}
-
-.tags li::before{
-    content: "";
-  }
-  .tags a{
-    border-bottom: 0px; 
-  }
-  .tags a:hover{
-    background-color: rgba(242, 242, 242, 1);
-    color: black;
-  }
 .figure-subtitle {
     text-align: center;
     color: grey;

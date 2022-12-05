@@ -9,12 +9,6 @@ body {
   text-shadow: none;
 }
 
-::selection {
-  background: red;
-  color: #fff;
-  text-shadow: none;
-}
-
 hr {
   border-top: 3px dotted blue;
 }
@@ -82,13 +76,30 @@ a:hover {
 .site-description a:hover {
   color: black;
 }
-
-.tags a {
-  border-bottom: 3px solid var(--darkMaincolor);
+.tags ul {
+    display: flex;
+    list-style-type: none;
+    padding-left: 0ch;
 }
-.tags a:hover {
-  background-color: var(--darkMaincolor);
-  color: black;
+.tags ul li {
+    background-color:rgba(52, 52, 52, 1);
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    text-indent: 0;
+    margin: 3px;
+    color: #ddd;
+}
+
+.tags li::before{
+    content: "";
+  }
+.tags a{
+  border-bottom: 0px; 
+}
+.tags a:hover{
+  background-color: rgba(52, 52, 52, 1);
+  color: #ddd;
 }
 
 .site-title a {

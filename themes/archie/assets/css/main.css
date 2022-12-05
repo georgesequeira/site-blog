@@ -219,16 +219,31 @@ article .title {
 display: flex;
 justify-content: space-between;
 }
+.tags ul {
+    display: flex;
+    list-style-type: none;
+    padding-left: 0ch;
+}
+.tags ul li {
+    background-color:rgba(242, 242, 242, 1);
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    text-indent: 0;
+    margin: 3px;
+}
+
 .tags li::before{
-  content: "🏷 ";
+    content: "";
+  }
+  .tags a{
+    border-bottom: 0px; 
+  }
+  .tags a:hover{
+    background-color: rgba(242, 242, 242, 1);
+    color: black;
 }
-.tags a{
-  border-bottom: 3px solid var(--maincolor); 
-}
-.tags a:hover{
-  color:white;
-  background-color: var(--hovercolor); 
-}
+
 svg{
   max-height: 15px;
 }
