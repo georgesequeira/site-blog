@@ -40,7 +40,6 @@ p a {
 }
 
 blockquote {
-    border-left: 3px solid var(--maincolor);
     font-style: italic;
     margin: 0;
     padding-left: 15px;

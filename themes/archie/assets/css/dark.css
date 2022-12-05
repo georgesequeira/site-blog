@@ -96,6 +96,10 @@ a:hover {
   text-decoration: none !important;
 }
 
+blockquote {
+    border-left: 3px solid var(--darkMaincolor);
+}
+
 .header nav,
 .footer {
   border-color: #333;

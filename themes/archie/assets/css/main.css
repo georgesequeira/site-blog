@@ -6,7 +6,9 @@
 --hovercolor:navy;
 --darkMaincolor: #50fa7b;
 }
-
+blockquote {
+    border-left: 3px solid var(--maincolor);
+}
 html {
   color: #232333;
   font-family: 'Inter', monospace;
