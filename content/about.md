@@ -1,19 +1,13 @@
 +++
 title = "About"
 description = "George Sequeira"
-date = "2022-12-03"
+date = "2022-02-09"
 aliases = ["about-me","about","contact"]
 author = "George"
 about = true
 +++
 
-I'm currently building Hemisphere. I most recently co-founded RevvUp — a company exploring opportunities in auto repair. Before that I had the good fortune to work at Bonsai, Bluecore, Amazon and a few other places.
-
-As a leader in early stage startups, my experiences have focused on building amazing teams, executing in ambiguous situations, and delivering products that move the business forward. I focus on supporting people with tools, systems, processes that empower them to do their best work.
-
-I’m always excited to hear from folks, please feel free to connect:
-
-Email (g@georgesequeira.com) is best.
+I'm a Software Engineer @ Datadog. I've built a couple of startups, worked at a couple, and once upon a time helped launch the Amazon Alexa.
 
 You can also find me here:
 
